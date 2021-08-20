@@ -142,6 +142,10 @@ main {
   color: var(--base-color);
 }
 
+.logo-alt span {
+  color: var(--body-color);
+}
+
 /* NAVIGATION */
 nav {
   height: var(--header-height);
